@@ -1,0 +1,11 @@
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\bin\Debug\net7.0\Vb.Schema.deps.json
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\bin\Debug\net7.0\Vb.Schema.dll
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\bin\Debug\net7.0\Vb.Schema.pdb
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.AssemblyInfoInputs.cache
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.AssemblyInfo.cs
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.csproj.CoreCompileInputs.cache
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.dll
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\refint\Vb.Schema.dll
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\Vb.Schema.pdb
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Schema\obj\Debug\net7.0\ref\Vb.Schema.dll

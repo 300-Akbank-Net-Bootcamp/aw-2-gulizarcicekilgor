@@ -1,0 +1,17 @@
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Data.deps.json
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Data.runtimeconfig.json
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Data.dll
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Data.pdb
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Base.dll
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\bin\Debug\net7.0\Vb.Base.pdb
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.AssemblyReference.cache
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.AssemblyInfoInputs.cache
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.AssemblyInfo.cs
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.CoreCompileInputs.cache
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.csproj.CopyComplete
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.dll
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\refint\Vb.Data.dll
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.pdb
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\Vb.Data.genruntimeconfig.cache
+C:\Users\guliz\Desktop\CHomework\week2\pk-ab\VbApi\Vb.Data\obj\Debug\net7.0\ref\Vb.Data.dll
